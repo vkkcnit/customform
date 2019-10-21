@@ -1,10 +1,12 @@
-export default () => ({
-    counter: 5
-  })
+// export default () => ({
+//     counter: 6,
+//   })
 
-  export const mutation = {
+//   export const mutation = {
 
-    increment (state){
-      state.counter++ ;
-    }
-  }
+//     increment (state){
+//       state.counter++ ;
+//     }
+//   }
+
+

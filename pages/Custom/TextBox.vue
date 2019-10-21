@@ -5,7 +5,7 @@
               <v-col cols="12" sm="6">
                 <v-text-field
                   v-model="textBoxLable"
-                  label="TextBoxTest"
+                  label="TextBox Lable"
                   counter
                   maxlength="20"
                 ></v-text-field>
